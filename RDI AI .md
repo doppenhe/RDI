@@ -1,6 +1,3 @@
-# **Practical Examples & How-to Guide** *(Markdown Version for Students)*  
-
----
 
 # 🛠️ **AI for R&D Ventures: Hands-On Examples and Prompts**
 
